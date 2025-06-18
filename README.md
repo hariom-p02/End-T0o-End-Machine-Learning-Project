@@ -1,4 +1,5 @@
-**End-to-End Data Science Project: Model Deployment for Business Optimization**
+#End-to-End Data Science Project: Model Deployment for Business Optimization
+
 📚 **Project Overview**
 This project demonstrates the complete life cycle of a data science solution, starting from problem definition to model deployment. It covers data collection, exploratory data analysis (EDA), data preprocessing, feature engineering, model training, evaluation, deployment via Flask API, and monitoring strategies for real-world usage.
 
