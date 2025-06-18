@@ -43,25 +43,15 @@ This project demonstrates the complete life cycle of a data science solution, st
 
 ## ⚙️ How to Run the Project
 
-Clone the repository:
+### Clone the repository:
 ```bash
 git clone https://github.com/hariom-p02/project-repo.git
-
----
-
 Install dependencies:
-```bash
+bash
 pip install -r requirements.txt
-
----
-
 Run the Flask API:
-```bash
+bash
 python src/app.py
-
----
-
-Send API requests using Postman or any other API tool.
 
 ---
 
