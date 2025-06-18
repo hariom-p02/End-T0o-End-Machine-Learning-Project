@@ -51,18 +51,32 @@ project-folder/
 ```
 
 ---
-## ⚙️ How to Run the Project
-**Clone the repository:**
-git clone https://github.com/yourusername/project-repo.git
-**Navigate to the project directory:**
-cd project-repo
-**Install the required packages:**
-pip install -r requirements.txt
-**Run the Flask API:**
-python src/app.py
-**Access the API via browser or Postman at**:
-http://127.0.0.1:5000/
 
+## ⚙️ How to Run the Project
+
+### Clone the repository:
+```bash
+git clone https://github.com/hariom-p02/project-repo.git
+```
+
+---
+
+### Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+### Run the Flask API:
+```bash
+python src/app.py
+```
+
+### Access the API
+You can send API requests using Postman or any other API testing tool.
+If the server runs locally, you can access it at:
+```
+http://127.0.0.1:5000/
+```
 
 ---
 
