@@ -39,7 +39,6 @@ This project demonstrates the complete life cycle of a data science solution, st
 ├── templates/ # HTML templates (if web interface is built)
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
-
 ---
 
 ## ⚙️ How to Run the Project
@@ -63,3 +62,24 @@ python src/app.py
 ---
 
 Send API requests using Postman or any other API tool.
+
+---
+
+## 📈 Results
+- Successfully deployed a machine learning model capable of making real-time predictions.
+- Created visual dashboards to present key insights from the EDA and model outputs.
+
+---
+
+## 🔍 Future Improvements
+- Incorporate advanced model monitoring tools.
+- Automate retraining pipelines using scheduled scripts or CI/CD tools.
+- Develop a user-friendly front-end for live interaction.
+
+---
+
+## 📞 Contact
+For any queries, please contact:
+
+**Hariom Pawar**  
+hariompawar.eng@gmail.com
