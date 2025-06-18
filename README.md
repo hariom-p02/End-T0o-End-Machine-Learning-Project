@@ -48,6 +48,21 @@ project-folder/
 ├── templates/            # (Optional) HTML templates if UI is created
 ├── requirements.txt      # List of Python dependencies
 └── README.md             # Project documentation
+```
+
+---
+## ⚙️ How to Run the Project
+**Clone the repository:**
+git clone https://github.com/yourusername/project-repo.git
+**Navigate to the project directory:**
+cd project-repo
+**Install the required packages:**
+pip install -r requirements.txt
+**Run the Flask API:**
+python src/app.py
+**Access the API via browser or Postman at**:
+http://127.0.0.1:5000/
+
 
 ---
 
